@@ -8,7 +8,7 @@ venv/
 ENV/
 .venv
 .ipynb_checkpoints
-*.ipynb
+GAT_basics.ipynb
 
 .streamlit/secrets.toml
 
